@@ -16,20 +16,20 @@ p {
   color: var(--soft-white);
 }
 
-p {
+h1 {
   color: var(--old-brass);
   font-size: 3em;
   text-shadow: 1px 1px #eeeab4;
 }
 
-p {
+ul {
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
-p {
+li  {
   text-align: center;
   border: 1px solid var(--line-blue);
   border-radius: 10px;
@@ -41,7 +41,7 @@ p {
   box-shadow: var(--dark-box-shadowing);
 }
 
-p {
+.libraries-list-item {
   text-align: center;
   border: 1px solid var(--line-blue);
   border-radius: 10px;
@@ -53,7 +53,7 @@ p {
   box-shadow: var(--dark-box-shadowing);
 }
 
-p {
+img {
   width: auto;
   height: 200px;
   display: block;
@@ -76,16 +76,16 @@ p {
   font-family: sans-serif;
 }
 
-p {
+.social-links__item {
   width: 10%;
 }
 
-p {
+h2 {
   font-size: 20px;
   font-weight: bold;
 }
 
-p {
+a {
   color: var(--soft-white);
   text-decoration: none;
 }
